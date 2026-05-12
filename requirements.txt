@@ -1,0 +1,14 @@
+lmdb
+einops_exts
+torch_ema
+nnAudio
+tensorboard
+gin-config
+pretty_midi
+tqdm>=4.64.1
+cached-conv>=2.5.0
+cqt_pytorch==0.0.5
+matplotlib>=3.8.3
+librosa>=0.10.2
+pyyaml
+scipy==1.10.0
